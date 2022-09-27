@@ -42,5 +42,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://felipefcvt.github.io/todo-list.git"
+  "homepage": "https://felipefcvt.github.io/todo-list.git",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
